@@ -1,0 +1,5 @@
+com\example\Otp_verfication\services\Otpservice$OtpData.class
+com\example\Otp_verfication\OtpVerficationApplication.class
+com\example\Otp_verfication\services\Otpservice.class
+com\example\Otp_verfication\Controllers\OtpController.class
+com\example\Otp_verfication\Impl\SmsService.class
